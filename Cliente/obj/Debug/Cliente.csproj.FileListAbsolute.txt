@@ -1,0 +1,10 @@
+D:\UDLA\UDLA 9 SEMESTRE\INTEGRACION DE SISTEMAS\WCF\Cliente\bin\Debug\Cliente.exe.config
+D:\UDLA\UDLA 9 SEMESTRE\INTEGRACION DE SISTEMAS\WCF\Cliente\bin\Debug\Cliente.exe
+D:\UDLA\UDLA 9 SEMESTRE\INTEGRACION DE SISTEMAS\WCF\Cliente\bin\Debug\Cliente.pdb
+D:\UDLA\UDLA 9 SEMESTRE\INTEGRACION DE SISTEMAS\WCF\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+D:\UDLA\UDLA 9 SEMESTRE\INTEGRACION DE SISTEMAS\WCF\Cliente\obj\Debug\Cliente.Form1.resources
+D:\UDLA\UDLA 9 SEMESTRE\INTEGRACION DE SISTEMAS\WCF\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+D:\UDLA\UDLA 9 SEMESTRE\INTEGRACION DE SISTEMAS\WCF\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+D:\UDLA\UDLA 9 SEMESTRE\INTEGRACION DE SISTEMAS\WCF\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+D:\UDLA\UDLA 9 SEMESTRE\INTEGRACION DE SISTEMAS\WCF\Cliente\obj\Debug\Cliente.exe
+D:\UDLA\UDLA 9 SEMESTRE\INTEGRACION DE SISTEMAS\WCF\Cliente\obj\Debug\Cliente.pdb
